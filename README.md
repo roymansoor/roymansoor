@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roohullah Mansoor</h1>
-<h3 align="center">A passionate frontend developer from United States</h3>
+<h3 align="center">A passionate software developer from United States</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
