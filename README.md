@@ -13,9 +13,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
-<p align="left">
-  <span style="font-size: 2em;">🧰 Languages and Tools : </span>
-</p>
+
+### 🧰 Languages and Tools : 
+
 <hr style="border: none; height: 6px; background-color: gray;">
 <img align ="left" alt="Java" width="60px" style="padding:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 <img align ="left" alt="Java" width="60px" style="padding:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
@@ -37,5 +37,3 @@
 <img align ="left" alt="Java" width="60px" style="padding:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
 <img align ="left" alt="Java" width="60px" style="padding:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align ="left" alt="Java" width="60px" style="padding:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
-          
-          
