@@ -33,23 +33,9 @@
 <img align ="left" alt="Java" width="60px" style="padding:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
 <img align ="left" alt="Java" width="60px" style="padding:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
 <img align ="left" alt="Java" width="60px" style="padding:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" />
+<img align ="left" alt="Java" width="60px" style="padding:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+<img align ="left" alt="Java" width="60px" style="padding:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+<img align ="left" alt="Java" width="60px" style="padding:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align ="left" alt="Java" width="60px" style="padding:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
           
           
-          
-
-          
-          
-          
-
-          
-
-          
-
-          
-
-          
-          
-          
-          
-
-
